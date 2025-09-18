@@ -1,0 +1,10 @@
+.DataBox{
+    text-align: center;
+    /* margin-bottom: 40px; */
+}
+.cardcontainer{
+    display: flex;
+    justify-content: center;
+    height: 380px;
+    
+}
